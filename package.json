@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fabiencheylac/work.git",
+  "license": "MIT"
+}
